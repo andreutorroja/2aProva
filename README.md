@@ -1,2 +1,2 @@
-# 3aProva
+# 2aProva
 Segon projecte en GitHub
